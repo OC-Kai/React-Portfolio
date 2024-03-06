@@ -9,8 +9,6 @@ function App() {
 
   return (
     <>
-    <p>{count}</p>
-    <button onClick={ ()=> setCount(count + 1)}></button>
       <Header />
       <Outlet />
       <Footer />
