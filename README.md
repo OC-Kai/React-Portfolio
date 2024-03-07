@@ -31,3 +31,4 @@ Ensure the website loads properly.
 # Questions:
 For further questions, please contact at [github.com/OC-Kai](https://github.com/OC-Kai) or <a href = "mailto:ArthurJStone96@gmail.com">ArthurJStone96@gmail.com</a>.
 
+Live Link: Netlify: https://main--resonant-otter-3a234d.netlify.app/
